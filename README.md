@@ -41,7 +41,7 @@ go version
 Run the program:
 
 ```bash
-go run main.go
+go run UAS.go
 ```
 
 ## Purpose
